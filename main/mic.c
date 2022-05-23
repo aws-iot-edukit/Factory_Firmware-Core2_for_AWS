@@ -33,7 +33,7 @@
 
 #include "driver/i2s.h"
 
-#include "core2forAWS.h"
+#include "core2foraws.h"
 
 #include "mic.h"
 #include "fft.h"

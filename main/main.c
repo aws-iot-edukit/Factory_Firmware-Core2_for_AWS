@@ -45,7 +45,7 @@
 #include "esp_event.h"
 #include "nvs_flash.h"
 
-#include "core2forAWS.h"
+#include "core2foraws.h"
 
 #include "sound.h"
 #include "home.h"

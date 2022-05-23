@@ -33,7 +33,7 @@
 #include "freertos/semphr.h"
 #include "esp_log.h"
 
-#include "core2forAWS.h"
+#include "core2foraws.h"
 #include "clock.h"
 
 static const char *TAG = CLOCK_TAB_NAME;
