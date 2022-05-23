@@ -35,7 +35,7 @@
 #include "esp_log.h"
 #include "esp_event.h"
 
-#include "core2forAWS.h"
+#include "core2foraws.h"
 
 #include "wifi.h"
 

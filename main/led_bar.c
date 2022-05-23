@@ -32,7 +32,7 @@
 
 #include "esp_log.h"
 
-#include "core2forAWS.h"
+#include "core2foraws.h"
 #include "led_bar.h"
 
 #define RED_AMAZON_ORANGE 255

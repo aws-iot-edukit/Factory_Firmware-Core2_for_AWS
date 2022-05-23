@@ -29,7 +29,7 @@
 #include "freertos/task.h"
 #include "freertos/semphr.h"
 
-#include "core2forAWS.h"
+#include "core2foraws.h"
 
 #include "sound.h"
 
